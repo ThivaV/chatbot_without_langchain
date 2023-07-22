@@ -1,2 +1,3 @@
-# chatbot_without_langchain
-Chatbot without Langchain
+# Chatbot without 🦜️🔗 LangChain
+
+> Chatbot without Langchain
